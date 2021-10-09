@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ventispurr, still learning to hode as I go.. but im learning :D
+### Hi there 👋 I'm Ventispurr, still learning to code as I go.. but im learning :D
 
 - 🔭 I Live on discord pretty much and play videogames
 - 🌱 I've made 2 discord bots that im really proud of! [Uteki](https://ventispurr.cool/Uteki) and [Uteki Beats](https://ventispurr.cool/UtekiBeats)

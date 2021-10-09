@@ -18,4 +18,20 @@
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ventispurr&layout=compact)](https://github.com/ventispurr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [**How to make music bot for discord in 6 mins without coding!!**](https://www.youtube.com/watch?v=loz4euJv1M0&t=6s)
+- [**How to make a giveaway bot for discord in 6 mins without coding!!**](https://www.youtube.com/watch?v=ExzlZEGVbBw)
+<!-- YOUTUBE:END -->
+
+
+[![Drstrange GitHub Stats](https://github-readme-stats.vercel.app/api?username=drstrangegithub)](https://github.com/anuraghazra/github-readme-stats)
+
+[youtube]: https://www.youtube.com/channel/UCmTSEzt4h1S4MiCM1grWu9g
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?
+[cssplaylist]: https://www.youtube.com/playlist?
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0

@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Ventispurr, still learning to code as I go.. but im learning :D
 
-- 🔭 I Live on discord pretty much and play video games.. Im also self taught in coding :D
-- 🌱 I've made 2 discord bots that im really proud of! [Uteki](https://ventispurr.cool/Uteki) and [Uteki Beats](https://ventispurr.cool/UtekiBeats)
-- 👯 I like to program often.. I also make a lot of random little Javascript scripts to do stupid little stuff
-- 🤔 I help people learn some basics of coding aswell.. Its just what I do
-- ⚡ Im always on discord! so you can add me here -> [Ventispurr](https://discord.gg/KnSExvK)
+- 🏠 I Live on discord pretty much and play video games.. Im also self taught in coding :D
+- 🤖 I've made 2 discord bots that im really proud of! [Uteki](https://ventispurr.cool/Uteki) and [Uteki Beats](https://ventispurr.cool/UtekiBeats)
+- 💻 I like to program often.. I also make a lot of random little Javascript scripts to do stupid little stuff
+- 🤓 I help people learn some basics of coding aswell.. Its just what I do
+- ⚡ I'm always on discord! so you can add me here -> [Ventispurr](https://discord.gg/KnSExvK)
 
 ### Languages and tool i use:
 

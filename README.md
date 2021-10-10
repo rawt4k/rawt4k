@@ -21,7 +21,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Ventispurr GitHub Stats](https://github-readme-stats.vercel.app/api?username=ventispurr)](https://github.com/anuraghazra/github-readme-stats)
+[![Ventispurr GitHub Stats](https://github-readme-stats.vercel.app/api?username=ventispurr)](https://github.com/ventispurr/github-readme-stats)
 
 [youtube]: https://www.youtube.com/channel/UCmTSEzt4h1S4MiCM1grWu9g
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt

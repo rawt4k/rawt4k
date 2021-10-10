@@ -18,10 +18,10 @@
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ventispurr&layout=compact)](https://github.com/ventispurr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ventispurr&layout=compact)](https://github.com/Ventispurr/github-readme-stats)
 
 
-[![Ventispurr GitHub Stats](https://github-readme-stats.vercel.app/api?username=ventispurr)](https://github.com/ventispurr/github-readme-stats)
+[![Ventispurr GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ventispurr)](https://github.com/Ventispurr/github-readme-stats)
 
 [youtube]: https://www.youtube.com/channel/UCmTSEzt4h1S4MiCM1grWu9g
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt

@@ -21,7 +21,6 @@
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][jsplaylist]ㅤ
 
-
 <a href="https://github.com/Ventispurr">
   <img src="https://github-readme-stats.vercel.app/api?username=Ventispurr&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=87b4bf&text_color=FFFFFF&icon_color=87b4bf">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ventispurr&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=87b4bf">

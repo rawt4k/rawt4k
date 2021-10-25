@@ -1,3 +1,6 @@
+<img src="https://discord.c99.nl/widget/theme-4/429013973501870100.png">
+
+
 ### Hi there 👋 I'm Ventispurr, still learning to code as I go.. but im learning :D
 
 - 🏠 I Live on discord pretty much and play video games.. Im also self taught in coding :D

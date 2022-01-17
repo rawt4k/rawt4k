@@ -7,7 +7,7 @@
 - 🤖 I've made 2 discord bots that i'm really proud of! [Uteki](https://its.ventispurr.xyz/Uteki) and [Uteki Beats](https://its.ventispurr.xyz/UtekiBeats)
 - 💻 I like to program often.. I also make a lot of random little Javascript scripts to do stupid little stuff
 - 🤓 I help people learn some basics of coding aswell.. Its just what I do
-- ⚡ I'm always on discord! so you can add me here -> [Ventispurr](https://discord.gg/cB49pkWjGZ)
+- ⚡ I'm always on discord! so you can add me here -> [Ventispurr](https://discord.com/users/429013973501870100)
 
 ### Languages and tool i use:
 

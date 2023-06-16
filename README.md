@@ -4,7 +4,7 @@
 ### Hi there 👋 I'm Ventispurr, still learning to code as I go.. but im learning :D
 
 - 🏠 I Live on discord pretty much and play video games.. I'm also self taught in coding :D
-- 🤖 I've made 2 discord bots that i'm really proud of! [Uteki](https://its.ventispurr.xyz/Uteki) and [Uteki Beats](https://its.ventispurr.xyz/UtekiBeats)
+- 🤖 I've made 2 discord bots that i'm really proud of! Uteki and Uteki Beats (they are currently discontinuted and waiting for future purpose
 - 💻 I program mainly when im bored, or have nothing else to do
 - 🤓 I help people learn some basics of coding aswell.. Its just what I do
 - ⚡ I'm always on discord! so you can add me here -> [Ventispurr](https://discord.com/users/429013973501870100)

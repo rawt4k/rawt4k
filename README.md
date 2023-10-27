@@ -7,7 +7,7 @@
 - 🤖 I've made 2 discord bots that i'm really proud of! Uteki and Uteki Beats (they are currently discontinuted and waiting for future purpose.
 - 💻 I program mainly when im bored, or have nothing else to do.
 - 🤓 I help people learn some basics of coding aswell.. Its just what I do.
-- ⚡ I'm always on discord! so you can add me here -> [Ventispurr](https://discord.com/users/429013973501870100)
+- ⚡ I'm always on discord! so you can add me here -> [awoou](https://discord.com/users/429013973501870100)
 
 ### Languages and tool i use:
 
